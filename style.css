@@ -1,0 +1,54 @@
+body {
+  background-image: url('img/fon.png');
+  -webkit-background-size: cover;
+  background-size: cover;
+}
+.container {
+  width: 100%;
+  text-align: center;
+}
+#logo {
+  width: 550px;
+  height: auto;
+}
+.story {
+  width: 900px;
+  height: 1000px;
+  margin:0 auto;
+  background-color: rgba(255, 255, 255, 1);
+  box-shadow: 0 0 50px 5px rgba(10, 166, 38, 0.8);
+  border-color: rgba(32, 179, 59, 1);
+  border-style: outset;
+  border-width: 4px;  
+	
+}
+h1 {
+	padding-top: 15px;
+	text-align: center;
+	font-family: 'Oswald', sans-serif;
+}
+b {
+	font-family: 'Raleway', sans-serif;
+}
+p {
+	padding-left: 30px;
+	padding-right: 30px;
+	font-family: 'Raleway', sans-serif;
+}
+#icon1 {
+	width: 126.1px;
+	height: 126.1px;
+	padding-left: 26px;
+	
+}
+.icon {
+	width: 126.1px;
+	height: 126.1px;
+	padding-left: 15px;
+
+}
+#icon2 {
+	width: 126.1px;
+	height: 126.1px;
+	padding-left: 15px;
+}
