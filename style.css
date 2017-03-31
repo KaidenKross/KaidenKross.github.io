@@ -1,5 +1,10 @@
-body {
+#main {
   background-image: url('img/fon.png');
+  -webkit-background-size: cover;
+  background-size: cover;
+}
+#netstlk {
+   background-image: url('img/netfon.png');
   -webkit-background-size: cover;
   background-size: cover;
 }
@@ -13,7 +18,7 @@ body {
 }
 .story {
   width: 900px;
-  height: 1000px;
+  height: auto;
   margin:0 auto;
   background-color: rgba(255, 255, 255, 1);
   box-shadow: 0 0 50px 5px rgba(10, 166, 38, 0.8);
@@ -26,7 +31,14 @@ h1 {
 	padding-top: 15px;
 	text-align: center;
 	font-family: 'Oswald', sans-serif;
+	text-shadow: 4px 3px 3px rgba(10, 166, 38, 0.8);
 }
+h2 {
+	padding-top: 10px;
+	text-align: center;
+	font-family: 'Oswald', sans-serif;
+	text-shadow: 4px 3px 3px rgba(10, 166, 38, 0.8);
+}	
 b {
 	font-family: 'Raleway', sans-serif;
 }
@@ -51,4 +63,8 @@ p {
 	width: 126.1px;
 	height: 126.1px;
 	padding-left: 15px;
+}
+#Tor {
+	width: 300px;
+	height: auto;
 }
