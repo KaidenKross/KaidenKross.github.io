@@ -8,9 +8,22 @@
   -webkit-background-size: cover;
   background-size: cover;
 }
+#Jeff {
+	background-image: url('img/Jefon.jpg');
+    -webkit-background-size: cover;
+    background-size: cover;
+}
 .container {
   width: 100%;
   text-align: center;
+}
+#jeffjpg {
+  width: 550px;
+  height: auto;
+}
+#jeffjpg2 {
+  width: 300px;
+  height: auto;
 }
 #logo {
   width: 550px;
@@ -25,13 +38,28 @@
   border-color: rgba(32, 179, 59, 1);
   border-style: outset;
   border-width: 4px;  
-	
+}
+#jeffstory {
+  width: 900px;
+  height: auto;
+  margin:0 auto;
+  background-color: rgba(255, 255, 255, 1);
+  box-shadow: 0 0 50px 5px #cc1616;
+  border-color: #cc1616;
+  border-style: outset;
+  border-width: 4px;
 }
 h1 {
 	padding-top: 15px;
 	text-align: center;
 	font-family: 'Oswald', sans-serif;
 	text-shadow: 4px 3px 3px rgba(10, 166, 38, 0.8);
+}
+.jeffh1 {
+	padding-top: 15px;
+	text-align: center;
+	font-family: 'Oswald', sans-serif;
+	text-shadow: 4px 3px 3px #cc1616;
 }
 h2 {
 	padding-top: 10px;
@@ -47,22 +75,28 @@ p {
 	padding-right: 30px;
 	font-family: 'Raleway', sans-serif;
 }
-#icon1 {
-	width: 126.1px;
-	height: 126.1px;
-	padding-left: 26px;
-	
+.menu1 {
+	display: inline-block;
+	max-width: 126.1px;
+	text-align: center;
+	margin: 0 auto;
+    padding-left: 30px;
+}
+.menu {
+	display: inline-block;
+	max-width: 126.1px;
+	text-align: center;
+	margin: 0 auto;
+    padding-left: 15px;
+}
+figcaption {
+	text-align: center;
+	font-family: 'Raleway', sans-serif
 }
 .icon {
 	width: 126.1px;
 	height: 126.1px;
-	padding-left: 15px;
 
-}
-#icon2 {
-	width: 126.1px;
-	height: 126.1px;
-	padding-left: 15px;
 }
 #Tor {
 	width: 300px;
