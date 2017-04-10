@@ -22,6 +22,12 @@
     background-size: cover;
     background-attachment:fixed;
 }
+#Squidward {
+	background-image: url('img/Squidwardfon.jpg');
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-attachment:fixed;
+}
 .container {
   width: 100%;
   text-align: center;
@@ -43,11 +49,15 @@
   width: 300px;
   height: auto;
 }
+#Squidwardjpg {
+  width: 300px;
+  height: auto;
+}
 #logo {
   width: 550px;
   height: auto;
 }
-.story {
+.greenstory {
   width: 900px;
   height: auto;
   margin:0 auto;
@@ -57,17 +67,7 @@
   border-style: outset;
   border-width: 4px;  
 }
-#jeffstory {
-  width: 900px;
-  height: auto;
-  margin:0 auto;
-  background-color: rgba(255, 255, 255, 1);
-  box-shadow: 0 0 50px 5px #cc1616;
-  border-color: #cc1616;
-  border-style: outset;
-  border-width: 4px;
-}
-#barbistory {
+.redstory {
   width: 900px;
   height: auto;
   margin:0 auto;
@@ -83,18 +83,12 @@ h1 {
 	font-family: 'Oswald', sans-serif;
 	text-shadow: 4px 3px 3px rgba(10, 166, 38, 0.8);
 }
-.jeffh1 {
+.redh1 {
 	padding-top: 15px;
 	text-align: center;
 	font-family: 'Oswald', sans-serif;
 	text-shadow: 4px 3px 3px #cc1616;
 }
-.barbih1 {
-	padding-top: 15px;
-	text-align: center;
-	font-family: 'Oswald', sans-serif;
-	text-shadow: 4px 3px 3px #cc1616;
-}	
 h2 {
 	padding-top: 10px;
 	text-align: center;
@@ -103,6 +97,10 @@ h2 {
 }	
 b {
 	font-family: 'Raleway', sans-serif;
+}
+hr {
+	background-color: black;
+	size: 3px;
 }
 p {
 	padding-left: 30px;
@@ -115,6 +113,7 @@ p {
 	text-align: center;
 	margin: 0 auto;
     padding-left: 30px;
+    padding-top: 5px;
 }
 .menu {
 	display: inline-block;
@@ -122,6 +121,7 @@ p {
 	text-align: center;
 	margin: 0 auto;
     padding-left: 15px;
+    padding-top: 5px;
 }
 figcaption {
 	text-align: center;
