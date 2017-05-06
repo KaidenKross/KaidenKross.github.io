@@ -5,35 +5,44 @@
   background-attachment:fixed;
 }
 #netstlk {
-   background-image: url('img/netfon.png');
+  background-image: url('img/netfon.png');
   -webkit-background-size: cover;
   background-size: cover;
   background-attachment:fixed;
 }
 #Jeff {
-	background-image: url('img/Jefon.jpg');
+	  background-image: url('img/Jefon.jpg');
     -webkit-background-size: cover;
     background-size: cover;
     background-attachment:fixed;
 }
 #barbi {
-	background-image: url('img/barbifon.jpg');
+	 background-image: url('img/barbifon.jpg');
     -webkit-background-size: cover;
     background-size: cover;
     background-attachment:fixed;
 }
 #Squidward {
-	background-image: url('img/Squidwardfon.jpg');
+	 background-image: url('img/Squidwardfon.jpg');
     -webkit-background-size: cover;
     background-size: cover;
     background-attachment:fixed;
 }
 #Suicidemouse {
-  background-image: url('img/Suicidemouse.png');
+    background-image: url('img/Suicidemouse.png');
     -webkit-background-size: cover;
     background-size: cover;
     background-attachment:fixed;
 }
+#Windows95 { 
+    background-image: url('img/windowsfon.jpg');
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-attachment:fixed;
+    font-family:'Play', sans-serif;
+
+}
+
 .W95 {
   width: 900px
 }
@@ -76,6 +85,9 @@
   border-style: outset;
   border-width: 4px;  
 }
+#dima-loh{
+  color: blue;
+}
 .redstory {
   width: 900px;
   height: auto;
@@ -115,7 +127,7 @@ h2 {
 	text-shadow: 4px 3px 3px rgba(10, 166, 38, 0.8);
 }	
 b {
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Play', sans-serif;
 }
 hr {
 	background-color: black;
@@ -124,7 +136,7 @@ hr {
 p {
 	padding-left: 30px;
 	padding-right: 30px;
-	font-family: 'Raleway', sans-serif;
+	font-family:'Play', sans-serif;
 }
 .menu1 {
 	display: inline-block;
@@ -144,7 +156,7 @@ p {
 }
 figcaption {
 	text-align: center;
-	font-family: 'Raleway', sans-serif
+	font-family: 'Play', sans-serif
 }
 .icon {
 	width: 126.1px;
