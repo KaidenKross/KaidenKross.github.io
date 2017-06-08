@@ -37,10 +37,47 @@ h5 {
 	background-image: url(../img/catalog.jpg);
 	background-attachment: fixed;
 }
+#default1 {
+	background-image: url(../img/bq1.jpg);
+	background-attachment: fixed;
+}
+#top-img-def1 {
+	background-image: url(../img/top-d.png);
+	height: 300px;
+	background-position: center center;
+	background-repeat: no-repeat;
+	margin-bottom: 30px;
+}
+#top-img-def1 h1 {
+	color: white;
+	font-size: 50px;
+}
+#top-img-def1 em {
+	color: white;
+}
+#default2 {
+	background-image: url(../img/bq2.jpg);
+	background-attachment: fixed;
+}
+#top-img-def2 {
+	background-image: url(../img/top-d2.png);
+	height: 300px;
+	background-position: center center;
+	background-repeat: no-repeat;
+	margin-bottom: 30px;
+}
+#top-img-def2 h1 {
+	color: white;
+	font-size: 50px;
+}
+#top-img-def2 em {
+	color: white;
+}	
 #netstlk {
 	background-image: url(../img/catalog.jpg);
 	background-attachment: fixed;
 }
+
 #top-img-netstlk {
 	background-image: url(../img/netstalker-mini.png);
 	height: 300px;
@@ -60,7 +97,7 @@ h5 {
 	background-attachment: fixed;
 }
 #top-img-barbi {
-	background-image: url(../img/top-img-barbi.jpg);
+	background-image: url(../img/top-img-barbi.png);
 	height: 300px;
 	background-position: center center;
 	background-repeat: no-repeat;
@@ -96,7 +133,7 @@ h5 {
 	background-attachment: fixed;
 }
 #top-img-mouse {
-	background-image: url(../img/top-img-mouse.jpg);
+	background-image: url(../img/top-img-mouse.png);
 	height: 300px;
 	background-position: center center;
 	background-repeat: no-repeat;
@@ -108,7 +145,25 @@ h5 {
 }
 #top-img-mouse em {
 	color: white;
-}		
+}
+#windows {
+	background-image: url(../img/windowsbq.jpg);
+	background-attachment: fixed;
+}
+#top-img-windows {
+	background-image: url(../img/top-img-windows.jpg);
+	height: 300px;
+	background-position: center center;
+	background-repeat: no-repeat;
+	margin-bottom: 30px;
+}
+#top-img-windows h1 {
+	color: white;
+	font-size: 50px;
+}
+#top-img-windows em {
+	color: white;
+}			
 .block-menu {
 	display: inline-block;
 	padding-top: 10px;
@@ -141,3 +196,4 @@ a:hover {
 .content h1 {
 	padding-top: 50px;
 }
+
