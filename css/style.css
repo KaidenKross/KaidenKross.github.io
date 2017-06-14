@@ -37,42 +37,24 @@ h5 {
 	background-image: url(../img/catalog.jpg);
 	background-attachment: fixed;
 }
-#default1 {
-	background-image: url(../img/bq1.jpg);
+#default {
+	background-image: url(../img/defbq.jpg);
 	background-attachment: fixed;
 }
-#top-img-def1 {
-	background-image: url(../img/top-d.png);
+#top-img-def {
+	background-image: url(../img/top-img-def.png);
 	height: 300px;
 	background-position: center center;
 	background-repeat: no-repeat;
 	margin-bottom: 30px;
 }
-#top-img-def1 h1 {
+#top-img-def h1 {
 	color: white;
 	font-size: 50px;
 }
-#top-img-def1 em {
+#top-img-def em {
 	color: white;
 }
-#default2 {
-	background-image: url(../img/bq2.jpg);
-	background-attachment: fixed;
-}
-#top-img-def2 {
-	background-image: url(../img/top-d2.png);
-	height: 300px;
-	background-position: center center;
-	background-repeat: no-repeat;
-	margin-bottom: 30px;
-}
-#top-img-def2 h1 {
-	color: white;
-	font-size: 50px;
-}
-#top-img-def2 em {
-	color: white;
-}	
 #netstlk {
 	background-image: url(../img/catalog.jpg);
 	background-attachment: fixed;
