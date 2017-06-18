@@ -37,6 +37,9 @@ h5 {
 	background-image: url(../img/catalog.jpg);
 	background-attachment: fixed;
 }
+#quote {
+	text-align: start;
+}
 #default {
 	background-image: url(../img/defbq.jpg);
 	background-attachment: fixed;
@@ -178,4 +181,26 @@ a:hover {
 .content h1 {
 	padding-top: 50px;
 }
-
+.deeb-web-img {
+	width: 900px;
+	height: auto;
+	padding: 20px;
+}
+hr  {
+    border: none; /* Убираем границу для браузера Firefox */
+    color: gray; /* Цвет линии для остальных браузеров */
+    background-color: gray; /* Цвет линии для браузера Firefox и Opera */
+    height: 1px; /* Толщина линии */
+    size: 1px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+   }
+figure {
+	padding: 7px; /* Поля внутри блока */
+    margin: 10px 0 5px 5px; /* Отступы вокруг */
+}
+figcaption {
+	margin: 0 auto 5px;
+	color: gray;
+}  
