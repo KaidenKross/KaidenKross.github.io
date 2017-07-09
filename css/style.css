@@ -228,4 +228,13 @@ figcaption {
 .censor {
 	background: #000;
 	color: #000;
+}
+.loger {
+	position: absolute;
+	right: 5px;
+	bottom: 0px;
+}
+.flow {
+	float: right;
+	margin: 7px 30px 7px 7px; /* Отступы вокруг картинки *
 }  
