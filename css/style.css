@@ -50,6 +50,26 @@ h5 {
 	background-repeat: no-repeat;
 	margin-bottom: 30px;
 }
+#zalgo {
+	background-image:url(../img/zalgo.jpg);
+	background-attachment: fixed;
+	background-size:100%;
+}
+#top-img-zalgo {
+	background-image: url(../img/top-img-zalgo.jpg);
+	height: 300px;
+	background-position: center center;
+	background-repeat: no-repeat;
+	margin-bottom: 30px;
+}
+
+#top-img-zalgo h1 {
+	color: white;
+	font-size: 50px;
+}
+#top-img-zalgo em {
+	color: white;
+}
 .des {
 	text-align: start;
 }
@@ -173,6 +193,80 @@ h5 {
 	font-size: 14px;
 	margin-bottom: 30px;
 }
+.index-block-menu {
+	display: inline-block;
+	padding-top: 10px;
+	padding-right: 0px;
+	padding-left: 0px;
+	height: 185px;
+	box-shadow:0 10px 10px -5px rgba(0,0,0,.15);; 
+	font-size: 14px;
+	/*margin-bottom: 30px;*/
+}
+.index-block-menu h4 {
+	background: black;
+	color: white;
+	height: 31px;
+	padding-top: 5px;
+}
+/*.index-block-menu p {
+	text-shadow: 0px 0px 1px #000;
+}*/
+.catalog-menu {
+	background-image: url(../img/catalog.jpg);
+	background-attachment: fixed;
+	-webkit-background-size: cover;
+	background-size: cover;
+}
+/*.catalog-menu h4 {
+	background: #3fd40f;
+	color: black;
+	height: 31px;
+	padding-top: 5px;
+}*/
+.twenty-one-menu {
+	background-image: url(../img/21bq.jpg);
+	background-attachment: fixed;
+	-webkit-background-size: cover;
+	background-size: cover;
+}
+/*.twenty-one-menu h4 {
+	background: #d80303;
+	color: black;
+	height: 31px;
+	padding-top: 5px;
+}*/
+.keepers-menu {
+	background-image: url(../img/.jpg);
+	background-attachment: fixed;
+	-webkit-background-size: cover;
+	background-size: cover;
+}
+/*.keepers-menu h4 {
+	background: #337ab7;
+	color: black;
+	height: 31px;
+	padding-top: 5px;
+}*/
+.zalgo-menu {
+	background-image: url(../img/zalgo.jpg);
+	background-attachment: fixed;
+	-webkit-background-size: cover;
+	background-size: cover;
+}
+/*.zalgo-menu h4 {
+	background: #337ab7;
+	color: black;
+	height: 31px;
+	padding-top: 5px;
+}*/
+.white {
+	color: white;
+}
+.no-padding {
+	padding-right: 0px;
+	padding-left: 0px;
+}
 .block-menu p {
 	padding-left:5px;
 	padding-right: 5px;
@@ -236,5 +330,18 @@ figcaption {
 }
 .flow {
 	float: right;
-	margin: 7px 30px 7px 7px; /* Отступы вокруг картинки *
+	margin: 7px 30px 7px 7px; /* Отступы вокруг картинки */
+}
+#god {
+	background-image: url(../img/godbq.jpg);
+	background-attachment: fixed;
 }  
+.sky {
+	width: 800px;
+	height: 250px;
+	background-color: #F6F5F4;
+}
+.confession {
+	background-color: #222A28;
+	height: 1000px;
+}
