@@ -1,0 +1,109 @@
+body {
+	font-family:'Play', sans-serif;
+	font-size: 15px;
+	margin:0%;
+}
+#top-img {
+	background-image:url(../img/ancap.jpg);
+	background-size:100%;
+	background-repeat: no-repeat;
+	height: 375px;
+}
+.content {
+	background-image: url(../img/no_road2.jpg);
+	background-attachment: fixed;
+	background-size:100%;
+	background-repeat: no-repeat;
+	height: 175px;
+	margin:0px;
+	color: white;
+	padding-right: 30px;
+	padding-left: 30px;
+}
+.row {
+	margin-right: 0px;
+}
+#gidbq {
+	background-image: url(../img/gid.jpg);
+	background-attachment: fixed;
+	background-size:100%;
+	background-repeat: no-repeat;
+	height: 300px;
+	margin:0px;
+}
+#gid {
+	background-color: #ffffff;
+	width: 340px;
+	height: 300px;
+}
+#gid h3 {
+	padding-top:30px;
+	margin-top: 0px; 
+}
+.toctitle {
+	text-align: center;
+}
+.des {
+	list-style: none;
+}
+.wiki {
+	background-color: #ffffff;
+	height: auto;
+	width: 100%;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+.cos {
+	background-image: url(../img/cos.png);
+	background-size:100%;
+	background-repeat: no-repeat;
+	-webkit-background-size: cover;
+	background-size: cover;
+	height: auto;
+	margin:0px;
+}
+.cosimg {
+	
+}
+.karl {
+	background-image: url(../img/karl-marks.jpg);
+	background-size:100%;
+	background-repeat: no-repeat;
+	height: auto;
+	width: auto;
+
+}
+.white {
+	background-color: white;
+	margin: 0px;
+}
+.anarchimg {
+	width: 150px;
+	height: auto;
+}
+.flow {
+	float: right;
+	margin: 7px 30px 30px 7px; /* Отступы вокруг картинки */
+}
+.line-through {
+	text-decoration: line-through;
+}
+figure {
+    margin: 10px 0 5px 5px; /* Отступы вокруг */
+    width: 300px;
+}
+figcaption {
+	margin: 0 auto 5px;
+	color: black;
+}
+hr  {
+    border: none; /* Убираем границу для браузера Firefox */
+    color: gray; /* Цвет линии для остальных браузеров */
+    background-color: gray; /* Цвет линии для браузера Firefox и Opera */
+    height: 1px; /* Толщина линии */
+    size: 1px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+    width: 93%;
+}
