@@ -1,0 +1,95 @@
+body {
+	font-family:'Play', sans-serif;
+	font-size: 20px;
+	margin:0%;
+}
+a:hover {
+	text-decoration: none;
+}
+#Вiд {
+	background-image:url(../img/fma.jpg);
+	background-attachment: fixed;
+	background-size:100%;
+}
+.col-md-4 {
+	padding: 0px;
+}
+.row {
+	margin: 0px;
+}
+#vk {
+	background-color: #507299;
+	height: 50px;
+}
+#vk p {
+	padding-top: 10px;
+	padding-left: 30px;
+	color: white;
+}
+#myshows {
+	background-color: #c00;
+	height: 50px;
+}
+#myshows p {
+	padding-top: 10px;
+	padding-left: 30px;
+	color: white;
+}
+#YT {
+	background-color: #cc181e;
+	height: 50px;
+}
+#YT p {
+	padding-top: 10px;
+	padding-left: 30px;
+	color: white;
+}
+#b {
+	background-color: #f60;
+	height: 50px;
+}
+#b p {
+	padding-top: 10px;
+	padding-left: 30px;
+	color: white;
+}
+#Mrak {
+	background-color: #ab973b;
+	height: 50px;
+}
+#Mrak p {
+	padding-top: 10px;
+	padding-left: 30px;
+	color: white;
+}
+#steam {
+	background-color: #16273c;
+	height: 50px
+}
+#steam p {
+	padding-top: 10px;
+	padding-left: 30px;
+	color: white;
+}
+#rutracker {
+	background-color: white;
+	height: 50px;
+}
+#rutracker p{
+	color: black;
+	padding-top: 10px;
+	padding-left: 30px;
+}
+#rutor {
+	background-color: #ebef02;
+	height: 50px;
+}
+#rutor p {
+	padding-top: 10px;
+	padding-left: 30px;
+	color: black;
+}
+.голод {
+	background: #d80303;
+	color: black;
+}

@@ -3,12 +3,12 @@ body {
 	font-size: 15px;
 	margin:0%;
 }
-#top-img {
+/*#top-img {
 	background-image:url(../img/ancap.jpg);
 	background-size:100%;
 	background-repeat: no-repeat;
 	height: 375px;
-}
+}*/
 .content {
 	background-image: url(../img/no_road2.jpg);
 	background-attachment: fixed;
