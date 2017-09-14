@@ -1,0 +1,53 @@
+body {
+	font-family:'Play', sans-serif;
+	font-size: 15px;
+	color: #ceebff;
+}
+h1 {
+	 font-family: 'Roboto Condensed', sans-serif;
+}
+/*.shadows {
+	text-shadow: #ceebff -1px -1px 0, 
+                 #333 1px 1px 0;
+}*/
+body p {
+	background:rgba(7, 54, 74, 0.36);
+}
+.shadows {
+	text-shadow: #333 1px 1px 0;
+}
+#dark {
+	background: rgba(0,0,0,0.2);
+	height: 100%;
+	width: 100%;
+}
+#Hunger {
+	background-image: url(../img/ГОЛОД1.jpg);
+	background-attachment: fixed;
+	-webkit-background-size: cover;
+	background-size: cover;
+	height: auto;
+}
+.gif {
+	padding-top: 100px;
+}
+/*.golod {
+	text-shadow: #d80303 1px 1px 0;
+}*/
+/*.golod {
+	background: #d80303;
+	color: white;
+}*/
+.golod {
+	background: #000fb0;
+	color: black;
+}
+.gray {
+	background:rgba(7, 54, 74, 0.36);
+}
+.voice {
+	text-shadow: #d80303 1px 1px 0;
+}
+/*.row {
+	margin: 0px;
+}*/

@@ -332,10 +332,6 @@ figcaption {
 	float: right;
 	margin: 7px 30px 7px 7px; /* Отступы вокруг картинки */
 }
-#god {
-	background-image: url(../img/godbq.jpg);
-	background-attachment: fixed;
-}  
 .sky {
 	width: 800px;
 	height: 250px;
